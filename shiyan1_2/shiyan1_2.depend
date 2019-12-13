@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1553346003 source:f:\my document\algorithm\shiyan1_2\main.cpp
+	<stdio.h>
+	<string.h>
+	<iostream>
+	<string>
+
+1555053595 source:f:\algorithm\shiyan1_2\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+
