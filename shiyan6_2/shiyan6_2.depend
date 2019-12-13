@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1560916390 source:f:\algorithm\shiyan6_2\main.cpp
+	<stdio.h>
+	<malloc.h>
+
