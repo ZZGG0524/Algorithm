@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559215830 source:f:\algorithm\shiyan4_3\main.cpp
+	<iostream>
+	<algorithm>
+
